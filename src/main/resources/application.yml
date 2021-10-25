@@ -1,0 +1,12 @@
+## Root Manager Properties
+route-manager:
+  country:
+    url: raw.githubusercontent.com
+
+spring:
+  config:
+    use-legacy-processing: true
+  profiles:
+    active: dev
+  application:
+    name: route-manager
