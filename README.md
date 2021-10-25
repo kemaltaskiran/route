@@ -26,8 +26,7 @@ http://localhost:8080/routing/CZE/ITA
 ## Project Structure
 
 ### Testing
-The Stock Service project contains a service module/directory and this is a standard Spring boot web project with 
-JUnit 5 configured. 
+The Route Manager project is a standard Spring boot web project with JUnit 5 configured. 
 
 ## Running unit tests from command line
 ```
